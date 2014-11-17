@@ -8,14 +8,14 @@ from functools import partial
 def evaluate(match):
 	return match.group(1) + str(int(match.group(2))+7) + match.group(3)
 
-remote_sql_pw = "FIDHaZky";
-local_sql_pw = "FD26Ur2k"
-remote_user = "web5"
-local_user = "web10"
-local_db = "usr_web10_1"
-path = "/var/www/web10/html"
-remote_path = "/var/www/web5/html"
-host = "88.80.210.101"
+remote_sql_pw = "xxx";
+local_sql_pw = "xxx"
+remote_user = "xxx"
+local_user = "xxx"
+local_db = "xxx"
+path = "/path/to/wp"
+remote_path = "/path/to/wp"
+host = "xx.xx.xx.xx"
 
 # Reads Domains into an array
 domainList = []
