@@ -1,5 +1,2 @@
-forschendes-lernen.de
-diegewolltedonau.de
-online-ringvorlesung.de
-zawiw.de
-gemeinsamlernen.de
+contains all the domains to replace with mirror.domainname.xx
+every domain a single line
